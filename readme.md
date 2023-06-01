@@ -54,7 +54,7 @@ Ca' Brito. Una cápsula del tiempo.
 ### 2.2. Esquema de navegación 
 
 
-(https://github.com/mariabrito03/mariabrito03.github.io/blob/master/mapa%20de%20navegaci%C3%B3n.pdf)
+![esquema](https://github.com/mariabrito03/mariabrito03.github.io/blob/master/mapa%20de%20navegaci%C3%B3n.pdf)
 
 
 
