@@ -1,6 +1,6 @@
 ## (Nombre del proyecto)
 
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+Ca' Brito. Una cápsula del tiempo.
 
 
 
@@ -12,11 +12,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  (Brito Calleja, María)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** :   Este proyecto se plantea bajo el concepto de cápsula del tiempo, recuperando y animando las anécdotas de mi familia, la niñez de mi padre y sus hermanos, y el papel fundamental de la casa de mi abuela, y el barrio, como núcleo y unidad de toda nuestra familia.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:** Juego - documental
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -30,7 +30,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : /05/2020
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -86,7 +86,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado tanto a las personas de mi familia y conocidos que sin duda se verán reflejados en el proyecto, así como cualquier otra persona que se pueda sentir identificada con la historia de familia que cuenta mi proyecto.
 
 
 
