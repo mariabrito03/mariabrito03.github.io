@@ -39,7 +39,7 @@ Ca' Brito. Una cápsula del tiempo.
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![girl](https://github.com/mariabrito03/mariabrito03.github.io/blob/master/media/ca%20abuela%20bien.png)
 
 # 2. Memoria del proyecto 
 
