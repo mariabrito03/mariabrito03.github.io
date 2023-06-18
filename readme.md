@@ -8,17 +8,17 @@ Ca' Brito. Una cápsula del tiempo.
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Ca' Brito - Una cápsula del tiempo
 
 **Web:**   (url github.io)
 
-**Autor:**  (Brito Calleja, María)
+**Autor:**  Brito Calleja, María
 
 **Resumen** :   Este proyecto se plantea bajo el concepto de cápsula del tiempo, recuperando y animando las anécdotas de mi familia, la niñez de mi padre y sus hermanos, y el papel fundamental de la casa de mi abuela, y el barrio, como núcleo y unidad de toda nuestra familia.
 
 **Estilo/género:** Juego - documental
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : nsertar imagen y breve justificación, si  tiene
 
 (insertar imágenes a resolucion de 100px alto)
 
