@@ -18,7 +18,7 @@ Ca' Brito. Una cápsula del tiempo.
 
 **Estilo/género:** Juego - documental
 
-**Logotipo** : nsertar imagen y breve justificación, si  tiene
+**Logotipo** : ![girl](https://github.com/mariabrito03/mariabrito03.github.io/blob/master/puzzle5.jpg)
 
 (insertar imágenes a resolucion de 100px alto)
 
